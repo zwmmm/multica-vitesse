@@ -2,6 +2,8 @@
 
 A Multica theme with light and dark modes, muted green accents and warm gray text. It includes Standard, Soft and Black variants; Black applies in dark mode only.
 
+Multica adaptation by Wei Zheng.
+
 ## Preview
 
 Screenshots from the [Multica theme check for this theme](https://github.com/multica-ai/multica-themes/pull/20):
